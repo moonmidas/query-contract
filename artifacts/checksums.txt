@@ -1,0 +1,1 @@
+fed5e5b993a90cc212ef8d9b5a160744947ab430fccea6a4a5ccc6dbc75eed14  query_contract.wasm
